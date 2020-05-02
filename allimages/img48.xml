@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>img48.jpg</filename>
+	<path>/Users/arjunpandey/Desktop/CVProject/TensorFlow/workspace/training_demo/images/allimages/img48.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>StraightCrack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>217</ymin>
+			<xmax>275</xmax>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+</annotation>
